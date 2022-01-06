@@ -1,1 +1,4 @@
 Hi this is a new file
+
+
+Thi is a new line of code and I will be doing the Git revert after the commit because I have made some fatal error on this line of code.
