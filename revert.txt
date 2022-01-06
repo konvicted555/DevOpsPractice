@@ -1,7 +1,0 @@
-Hello this si test file and I want to test the Git reset thing in this.
-
-
-
-Happy Learning
-
-I Have done a git reset and now I have added a new line here.
